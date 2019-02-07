@@ -35,3 +35,4 @@ This project is licensed under the GNU General Public License 3.0 - see the [LIC
 
 ## Additional notes
 This script **only runs on linux** and **must be executed with root privileges**
+As much as I'd like, not all networks appear at the same time
