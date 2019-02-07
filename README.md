@@ -1,5 +1,5 @@
 # wifiSpammer
-A python script to spam a bunch of silly wifi networks, inspired by [Spacehun's esp8266_beaconSpam](https://github.com/spacehuhn)
+A python script to spam a bunch of silly wifi networks, inspired by [Spacehun's esp8266_beaconSpam](https://github.com/spacehuhn){:target="_blank"}
 
 ## Requirements
 This script will require
@@ -31,7 +31,7 @@ pip3 install scapy
 ```
 
 ## License
-This project is licensed under the GNU General Public License 3.0 - see the [LICENSE.md](LICENSE) for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE) for details
 
 ## Additional notes
 This script **only runs on linux** and **must be executed with root privileges**
