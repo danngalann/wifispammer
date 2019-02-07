@@ -31,7 +31,7 @@ pip3 install scapy
 ```
 
 ## License
-This project is licensed under the GNU General Public License 3.0 - see the [LICENSE.md](LICENSE.md) for details
+This project is licensed under the GNU General Public License 3.0 - see the [LICENSE](LICENSE.md) for details
 
 ## Additional notes
 This script **only runs on linux** and **must be executed with root privileges**
