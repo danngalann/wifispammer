@@ -1,11 +1,10 @@
-import random, time, os, argparse, sys
+import random, os, argparse, sys
 try:
     from scapy.all import ( Dot11,
                             Dot11Beacon,
                             Dot11Elt,
                             RadioTap,
-                            sendp,
-                            hexdump)
+                            sendp)
 except ImportError:
     print("Scapy could not be imported.")
     print("Make sure to 'pip3 install scapy'")
