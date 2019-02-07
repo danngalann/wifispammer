@@ -30,7 +30,7 @@ To install scapy open a terminal and type
 pip3 install scapy
 ```
 ## Disclaimer
-This project is a proof of concept for testing and educational purposes. I do not take responsibility for the trouble you may get into, and please be mindful with the wifi names
+This project is a proof of concept for testing and educational purposes. I do not take responsibility for the trouble you may get into, and please be mindful with the SSID names
 
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE) for details
