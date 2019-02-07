@@ -24,6 +24,11 @@ optional arguments:
   -r, --random-mac      Uses a fully random BSSID instead of using a vendor
 ```
 
+## Installing Scapy
+To install scapy open a terminal and type
+```
+pip3 install scapy
+```
 
 ## License
 This project is licensed under the GNU General Public License 3.0 - see the [LICENSE.md](LICENSE.md) for details
