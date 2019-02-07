@@ -1,5 +1,5 @@
 # wifiSpammer
-A python script to spam a bunch of silly wifi networks, inspired by [Spacehun's esp8266_beaconSpam](https://github.com/spacehuhn){:target="_blank"}
+A python script to spam a bunch of silly wifi networks, inspired by [Spacehun's esp8266_beaconSpam](https://github.com/spacehuhn)
 
 ## Requirements
 This script will require
