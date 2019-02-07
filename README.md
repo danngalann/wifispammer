@@ -5,7 +5,7 @@ A python script to spam a bunch of silly wifi networks, inspired by [Spacehun's 
 This script will require
 
 * A wireless network card capable of monitor mode
-* Scapy for Python [see how to install](#installing-scapy)
+* Scapy for Python [installing Scapy](#installing-scapy)
 
 ## Usage
 ```
